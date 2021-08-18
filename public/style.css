@@ -1,0 +1,21 @@
+.body {
+
+}
+
+.container{
+    width: 75%;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.selected {
+    border: 3px solid green;
+}
+
+td {
+    width: 1px;
+    text-align: center;
+    vertical-align: middle;
+}
